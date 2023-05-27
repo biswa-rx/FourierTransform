@@ -13,7 +13,7 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
   ```gradle
   dependencies {
-	        implementation 'com.github.biswa-rx:FourierTransform:Tag'
+	        implementation 'com.github.biswa-rx:FourierTransform:v1.0.1'
 	}
 ```
 
